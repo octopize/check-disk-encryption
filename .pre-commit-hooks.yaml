@@ -1,0 +1,5 @@
+- id: check-disk-encryption
+  name: Check Disk Encryption
+  description: Verifies that local env has disk encryption
+  entry: check-disk-encryption.sh
+  language: script
